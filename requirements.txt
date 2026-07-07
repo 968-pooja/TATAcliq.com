@@ -10,3 +10,4 @@ colorlog==6.7.0
 python-dotenv==1.0.0
 allure-python-commons
 selenium==4.15.2
+pytest-xdist==3.3.1
